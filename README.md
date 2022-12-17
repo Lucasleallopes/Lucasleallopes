@@ -1,4 +1,4 @@
-## Olá eu sou o Lucas L. Lopes 👋
+## Olá eu sou o Lucas 👋
 
 - 👨‍💻 Cursando Engenharia de Software - FAG
 - 📚 Estou atualmente estudando Javascript, HTML5 e CSS3
