@@ -1,7 +1,7 @@
 ## Olá eu sou o Lucas 👋
 
 - 👨‍💻 Cursando Engenharia de Software - FAG
-- 📚 Estou atualmente estudando Javascript, HTML5 e CSS3
+- 📚 Estou atualmente estudando Javascript, HTML5, CSS3 e C
 - 🤖 Meu objetivo em longo prazo é fazer uma I.A
 <br>
 <div>
