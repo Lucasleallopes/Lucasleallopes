@@ -1,7 +1,7 @@
 ## Olá eu sou o Lucas 👋
 
 - 👨‍💻 Cursando Engenharia de Software - FAG
-- 📚 Estou atualmente estudando Javascript, HTML5, CSS3 e C
+- 📚 Estou atualmente estudando Java
 <br>
 <div>
   <a href="https://github.com/Lucasleallopes">
